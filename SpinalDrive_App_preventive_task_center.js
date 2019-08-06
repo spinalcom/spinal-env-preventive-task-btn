@@ -67,7 +67,7 @@ class SpinalDrive_App_FileExplorer_preventive_task_center extends SpinalDrive_Ap
 
 window.spinalDrive_Env.add_applications(
   "FileExplorer",
-  new SpinalDrive_App_FileExplorer_preventive-task_center()
+  new SpinalDrive_App_FileExplorer_preventive_task_center()
 );
 
 
