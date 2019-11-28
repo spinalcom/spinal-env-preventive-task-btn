@@ -1,12 +1,12 @@
 {
   "name": "spinal-env-preventive-task-btn",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "SpinalDrive_App_preventive_task_center.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-"dependencies": {
+  "dependencies": {
     "spinal-core-connectorjs": "git+https://github.com/spinalcom/spinal-core-connectorjs.git",
     "spinal-env-drive-core": "git+https://github.com/spinalcom/spinal-env-drive-core.git"
   },

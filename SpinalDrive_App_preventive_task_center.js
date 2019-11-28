@@ -14,7 +14,7 @@ class SpinalDrive_App_FileExplorer_preventive_task_center extends SpinalDrive_Ap
       "Openpreventive-taskFileExplorer",
       "Open ST Preventive",
       10,
-      "calendar_today",
+      "insert_invitation",
       "Open ST Preventive"
     );
     this.order_priority = 5;
