@@ -12,10 +12,10 @@ class SpinalDrive_App_FileExplorer_preventive_task_center extends SpinalDrive_Ap
   constructor() {
     super(
       "Openpreventive-taskFileExplorer",
-      "Open with preventive-task Center",
+      "Open ST Preventive",
       10,
-      "location_city",
-      "Open the preventive-task Center"
+      "calendar_today",
+      "Open ST Preventive"
     );
     this.order_priority = 5;
   }
@@ -69,5 +69,3 @@ window.spinalDrive_Env.add_applications(
   "FileExplorer",
   new SpinalDrive_App_FileExplorer_preventive_task_center()
 );
-
-
