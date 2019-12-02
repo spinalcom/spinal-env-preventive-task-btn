@@ -12,7 +12,7 @@ class SpinalDrive_App_FileExplorer_preventive_task_center extends SpinalDrive_Ap
   constructor() {
     super(
       "Openpreventive-taskFileExplorer",
-      "Open ST Preventive",
+      "ST Preventive",
       10,
       "insert_invitation",
       "Open ST Preventive"
